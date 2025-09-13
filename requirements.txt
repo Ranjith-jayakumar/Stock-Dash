@@ -1,0 +1,8 @@
+streamlit
+plotly
+streamlit-option-menu
+streamlit-autorefresh
+yfinance
+pandas
+requests
+pytz
